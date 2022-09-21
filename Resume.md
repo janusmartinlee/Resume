@@ -7,8 +7,7 @@ Janus Martin Lee Andersen
 Contact
 -
 **Address**  
-Boyesgade 17 2.th  
-Copenhagen V, 1622
+Boyesgade 17 2.th, 1622 Vesterbro, Copenhagen
 
 **Phone**  
 (+45) 26 29 40 93
@@ -22,45 +21,45 @@ janus.mmm@gmail.com
 Education
 -
 **Bachelor of Science (B.Sc.), Electrical and Electronics Engineering**  
-DTU - Technical University of Denmark  
-2009-2013
+DTU - Technical University of Denmark *(2009-2013)* 
 
-Bachelor project at Oticon A/S:
+- Bachelor project at Oticon A/S:
 Detection and classification of reverberant environments for the application in hearing aids.
-- A study in algorithms for blind reverberation time estimation.
-- Implementation and verification of algorithms in MATLAB.
+  - A study in algorithms for blind reverberation time estimation.
+  - Implementation and verification of algorithms in MATLAB.
 
 **Adgangskursus, Electrical and Electronics Engineering**  
-DTU - Technical University of Denmark  
-2007 – 2008
+DTU - Technical University of Denmark *(2007 – 2008)*
 
-**Købehavns tekniske skole**  
-Carpenter  
-2001 – 2005
+**Carpentry**  
+Købehavns tekniske skole *(2001 – 2005)*
 
 Experience
 -
 **Senior Systems Eng. Software Engineer**  
-Oticon A/S  
-Feb 2014 – Present
-
-Developing software solutions for supporting the development and testing involved in delivering high quality hearing devices to end-users.
+Oticon A/S *(Feb 2014 – Present)*
+- Developing software solutions for supporting the development and testing involved in delivering high quality hearing devices to end-users.
 
 **Co-Founder**  
-Bunkerbauer Records  
-Apr 2018 – Present
+Bunkerbauer Records *(Apr 2018 – Present)*
 
-Small Copenhagen based independent record label.
+- Small Copenhagen based independent record label.
 
 **Internship**  
-Oticon A/S  
-Feb 2013 – Jun 2013
+Oticon A/S *(Feb 2013 – Jun 2013)*
 
-Intern at Oticon A/S on the Music Forever project, collaboration between Oticon A/S and Roskilde festival to analyse the sound environment at the festival.
+- Intern at Oticon A/S on the Music Forever project, collaboration between Oticon A/S and Roskilde festival to analyse the sound environment at the festival.
 
 **Carpenter**  
-John L Jakobsen  
-Dec 2002 – Dec 2007
+John L Jakobsen *Dec 2002 – Dec 2007*
+
+Tech Profile
+-
+- .NET
+- WPF
+- Git
+- Azure DevOps
+- Visual Studio
 
 Competencies
 -
@@ -72,5 +71,5 @@ SOLID Design Principles &bull;
 Systems Design &bull;
 Test Driven Development &bull;
 Systems Engineering &bull;
-Computer System Validation &bull;
-System Architecture
+Computer System Validation &bull; 
+System Architecture 
