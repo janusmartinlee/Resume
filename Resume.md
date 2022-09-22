@@ -32,29 +32,29 @@ Detection and classification of reverberant environments for the application in 
   - Implementation and verification of algorithms in MATLAB.
 
 **Adgangskursus, Electrical and Electronics Engineering**  
-DTU - Technical University of Denmark *(2007 – 2008)*
+DTU - Technical University of Denmark *(2007 â€“ 2008)*
 
 **Carpenter**  
-Købehavns tekniske skole *(2001 – 2005)*
+KÃ¸behavns tekniske skole *(2001 â€“ 2005)*
 
 Experience
 -
 **Senior Systems Eng. Software Engineer**  
-Oticon A/S *(Feb 2014 – Present)*
+Oticon A/S *(Feb 2014 â€“ Present)*
 - Developing software solutions for supporting the development and testing involved in delivering high quality hearing devices to end-users.
 
 **Co-Founder**  
-Bunkerbauer Records *(Apr 2018 – Present)*
+Bunkerbauer Records *(Apr 2018 â€“ Present)*
 
 - Small Copenhagen based independent record label.
 
 **Internship**  
-Oticon A/S *(Feb 2013 – Jun 2013)*
+Oticon A/S *(Feb 2013 â€“ Jun 2013)*
 
 - Intern at Oticon A/S on the Music Forever project, collaboration between Oticon A/S and Roskilde festival to analyse the sound environment at the festival.
 
 **Carpenter**  
-John L Jakobsen *Dec 2002 – Dec 2007*
+John L Jakobsen *(Dec 2002 â€“ Dec 2007)*
 
 Tech Profile
 -
