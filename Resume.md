@@ -6,6 +6,9 @@ Janus Martin Lee Andersen
 
 Contact
 -
+**Age**  
+37
+
 **Address**  
 Boyesgade 17 2.th, 1622 Vesterbro, Copenhagen
 
@@ -31,7 +34,7 @@ Detection and classification of reverberant environments for the application in 
 **Adgangskursus, Electrical and Electronics Engineering**  
 DTU - Technical University of Denmark *(2007 – 2008)*
 
-**Carpentry**  
+**Carpenter**  
 Købehavns tekniske skole *(2001 – 2005)*
 
 Experience
