@@ -35,6 +35,7 @@ Experience
 -
 **Senior Systems Eng. Software Engineer**  
 Oticon A/S *(Feb 2014 – Present)*  
+
 - Developing software solutions for supporting the development and testing involved in delivering high quality hearing devices to end-users.
 
 **Co-Founder**  
