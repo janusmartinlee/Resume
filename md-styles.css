@@ -418,8 +418,7 @@ textarea {
  */
 
 table {
-    border-collapse: collapse;
-    border-spacing: 0;
+    border:none;
 }
 
 .go-top {
@@ -453,11 +452,6 @@ body {
     color: black;
 }
 
-*:not('#mkdbuttons') {
-    margin: 0;
-    padding: 0
-}
-
 body {
     font: 13.34pxHelvetica;
     -webkit-font-smoothing: subpixel-antialiased;
@@ -470,7 +464,8 @@ body {
 }
 
 p {
-    margin: 1em 0
+    margin: 1em 0;
+    margin-bottom: 5px;
 }
 
 a {
@@ -479,7 +474,7 @@ a {
 }
 
 body {
-    background-color: #fff;
+    background-color: transparent;
     padding: 30px;
     margin: 15px;
     font-size: 14px;
@@ -506,7 +501,7 @@ h3,
 h4,
 h5,
 h6 {
-    margin: 20px 0 10px;
+    margin: 0px 0 0px;
     padding: 0;
     font-weight: bold;
     -webkit-font-smoothing: subpixel-antialiased;
@@ -515,38 +510,35 @@ h6 {
 
 h1 {
     font-size: 37px;
-    color: #000;
+    color: #0D332F;
     text-align: center
 }
 
 h2 {
     font-size: 24px;
-    border-bottom: 1px solid #ccc;
-    color: #515A5A
+    border-bottom: 1px solid #2B4D49;
+    color: #2B4D49
 }
 
 h3 {
     font-size: 18px;
-    color: #333 -webkit-margin-before: 0.01em;
-    -webkit-margin-after: 0.01em;
+    color: #2B4D49
 }
 
 h4 {
     font-size: 16px;
-    color: #333;
+    color: #2B4D49;
     text-align: center;
-    -webkit-margin-before: 0.02em;
-    -webkit-margin-after: 0.02em;
 }
 
 h5 {
     font-size: 14px;
-    color: #333;
+    color: #2B4D49;
     text-align: center
 }
 
 h6 {
-    color: #777;
+    color: #2B4D49;
     font-size: 14px;
     text-align: center
 }
@@ -555,11 +547,12 @@ p,
 blockquote,
 table,
 pre {
-    margin: 15px 0
+    margin: 5px 0
 }
 
 ul {
-    padding-left: 30px
+    padding-left: 30px;
+    margin-top: 5px
 }
 
 ol {
@@ -674,31 +667,24 @@ blockquote {
     }
 
 table {
-    border-collapse: collapse;
-    border-spacing: 0;
+    border: none;
     font-size: 100%;
-    font: inherit
+    font: inherit;
 }
 
     table th {
         font-weight: bold;
-        border: 1px solid #ccc;
-        padding: 6px 13px
+        padding: 0px 0px
     }
 
     table td {
-        border: 1px solid #ccc;
-        padding: 6px 13px
+        padding: 0px 0px
     }
 
     table tr {
-        border-top: 1px solid #ccc;
-        background-color: #fff
+        background-color: transparent;
+        margin: 0px;
     }
-
-        table tr:nth-child(2n) {
-            background-color: #f8f8f8
-        }
 
 img {
     max-width: 100%

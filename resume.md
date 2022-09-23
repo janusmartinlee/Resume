@@ -4,22 +4,18 @@ Janus Martin Lee Andersen
 
 #### Full-stack software engineer driven by engagement in the full SDLC. 
 
-Contact
+Bio
 -
-**Age**  
-37
-
-**Address**  
-Boyesgade 17 2.th, 1622 Vesterbro, Copenhagen
-
-**Phone**  
-(+45) 26 29 40 93
-
-**Email**  
-janus.mmm@gmail.com
-
-**LinkdIn**  
-[linkedin.com/in/janus-martin-lee-andersen-9064255a](https://www.linkedin.com/in/janus-martin-lee-andersen-9064255a)
++-------------+------------------------------------------------------------------+
+| **Age**     | 37 
++-------------+------------------------------------------------------------------
+| **Address** | Boyesgade 17 2.th, 1622 Vesterbro, Copenhagen 
++-------------+------------------------------------------------------------------
+| **Phone**   | (+45) 26 29 40 93 
++-------------+------------------------------------------------------------------
+| **Email**   | janus.mmm@gmail.com 
++-------------+------------------------------------------------------------------
+| **LinkdIn** | [linkedin.com/in/janus-martin-lee-andersen-9064255a](https://www.linkedin.com/in/janus-martin-lee-andersen-9064255a) 
 
 Education
 -
@@ -58,21 +54,23 @@ John L Jakobsen *(Dec 2002 – Dec 2007)*
 
 Tech Profile
 -
-- .NET
-- WPF
-- Git
-- Azure DevOps
-- Visual Studio
+.NET &bull; 
+WPF &bull;
+Visual Studio &bull;
+Azure DevOps &bull;
+Git
 
 Competencies
 -
+SOLID &bull;
+TDD &bull;
 Scrum &bull;
 Stakeholder Management &bull;
 Requirements Analysis &bull;
-Software Systems Engineering &bull;
-SOLID Design Principles &bull;
-Systems Design &bull;
-Test Driven Development &bull;
 Systems Engineering &bull;
-Computer System Validation &bull; 
-System Architecture 
+Computer System Validation
+
+Languages
+-
+Danish *(Native)* &bull;
+English *(Fluent)*
