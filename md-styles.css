@@ -418,7 +418,7 @@ textarea {
  */
 
 table {
-    border:none;
+    border: none;
 }
 
 .go-top {
@@ -426,7 +426,7 @@ table {
     bottom: 2em;
     right: 2em;
     text-decoration: none;
-    background-color: #E0E0E0;
+    background-color: #000;
     font-size: 12px;
     padding: 1em;
     display: inline;
@@ -470,7 +470,7 @@ p {
 }
 
 a {
-    color: #4183c4;
+    color: black;
     text-decoration: none
 }
 
@@ -511,35 +511,35 @@ h6 {
 
 h1 {
     font-size: 37px;
-    color: #0D332F;
+    color: black;
     text-align: center
 }
 
 h2 {
     font-size: 24px;
-    border-bottom: 1px solid #2B4D49;
-    color: #2B4D49
+    border-bottom: 1px solid black;
+    color: black
 }
 
 h3 {
     font-size: 18px;
-    color: #2B4D49
+    color: black
 }
 
 h4 {
     font-size: 16px;
-    color: #2B4D49;
+    color: black;
     text-align: center;
 }
 
 h5 {
     font-size: 14px;
-    color: #2B4D49;
+    color: black;
     text-align: center
 }
 
 h6 {
-    color: #2B4D49;
+    color: black;
     font-size: 14px;
     text-align: center
 }
