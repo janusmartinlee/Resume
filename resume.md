@@ -6,28 +6,25 @@ Janus Martin Lee Andersen
 
 Bio
 -
-+-------------+------------------------------------------------------------------+
+
+|<!-- -->|<!-- -->|
+|-|-|-|
 | **Age**     | 37 
-+-------------+------------------------------------------------------------------
 | **Address** | Boyesgade 17 2.th, 1622 Vesterbro, Copenhagen 
-+-------------+------------------------------------------------------------------
 | **Phone**   | (+45) 26 29 40 93 
-+-------------+------------------------------------------------------------------
 | **Email**   | janus.mmm@gmail.com 
-+-------------+------------------------------------------------------------------
 | **LinkdIn** | [linkedin.com/in/janus-martin-lee-andersen-9064255a](https://www.linkedin.com/in/janus-martin-lee-andersen-9064255a) 
 
 Education
 -
 **Bachelor of Science (B.Sc.), Electrical and Electronics Engineering**  
-DTU - Technical University of Denmark *(2009-2013)* 
-
-- Bachelor project at Oticon A/S:
+DTU - Technical University of Denmark *(2009-2013)*  
+Bachelor project at Oticon A/S:
 Detection and classification of reverberant environments for the application in hearing aids.
   - A study in algorithms for blind reverberation time estimation.
   - Implementation and verification of algorithms in MATLAB.
 
-**Adgangskursus, Electrical and Electronics Engineering**  
+**Adgangskursus**  
 DTU - Technical University of Denmark *(2007 – 2008)*
 
 **Carpenter**  

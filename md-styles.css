@@ -678,7 +678,7 @@ table {
     }
 
     table td {
-        padding: 0px 0px
+        padding: 0px 10px 0px 0px;
     }
 
     table tr {
