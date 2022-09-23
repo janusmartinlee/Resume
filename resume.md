@@ -34,7 +34,7 @@ Købehavns tekniske skole *(2001 – 2005)*
 Experience
 -
 **Senior Systems Eng. Software Engineer**  
-Oticon A/S *(Feb 2014 – Present)*
+Oticon A/S *(Feb 2014 – Present)*  
 - Developing software solutions for supporting the development and testing involved in delivering high quality hearing devices to end-users.
 
 **Co-Founder**  
