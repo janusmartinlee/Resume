@@ -17,7 +17,8 @@ jobs:
         run: |
           mkdir output
           cp md-styles.css output/md-styles.css
-          cp resume.md output/${{ github.actor }}-resume.md
+          cp resume-english.md output/${{ github.actor }}-resume-english.md
+          cp resume-danish.md output/${{ github.actor }}-resume-danish.md
       # Downloading the binaries directly, because they are newer and work better, than the ones that come with Ubuntu latest.
       - name: "Install pandoc and wkhtmltopdf"
         run: |
@@ -28,9 +29,12 @@ jobs:
         
       - name: "Convert MD to HTML"
         run: |
-          pandoc resume.md -f markdown -t html -c md-styles.css -s -o output/${{github.actor}}-resume.html
+          pandoc resume-english.md -f markdown -t html -c md-styles.css -s -o output/${{github.actor}}-resume-english.html
+          pandoc resume-danish.md -f markdown -t html -c md-styles.css -s -o output/${{github.actor}}-resume-danish.html
       - name: "Convert HTML to PDF "
-        run: "wkhtmltopdf --enable-local-file-access output/${{github.actor}}-resume.html output/${{github.actor}}-resume.pdf"
+        run: |
+          "wkhtmltopdf --enable-local-file-access output/${{github.actor}}-resume-english.html output/${{github.actor}}-resume-english.pdf"
+          "wkhtmltopdf --enable-local-file-access output/${{github.actor}}-resume-danish.html output/${{github.actor}}-resume-danish.pdf"
       # run: |
       #     /usr/bin/pandoc -standalone --output=output/resume.pdf --css=resume-stylesheet.css --from=markdown --to=pdf --pdf-engine=/usr/bin/wkhtmltopdf resume.md
       - uses: actions/upload-artifact@master
