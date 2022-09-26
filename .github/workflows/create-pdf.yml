@@ -9,7 +9,7 @@ on:
     
 jobs:
   convert_via_pandoc:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-18.04
     steps:
       - name: "Create a folder called output"
         run: |
