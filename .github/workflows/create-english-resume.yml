@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: "Check out repository code"
-      - uses: actions/checkout@v3 # this checks out the repo in the ubuntu container
+        uses: actions/checkout@v3 # this checks out the repo in the ubuntu container
       - name: "Create pdf"
         uses: ./.github/workflows/create-pdf.yml
         with:
