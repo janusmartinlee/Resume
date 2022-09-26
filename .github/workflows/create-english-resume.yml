@@ -14,10 +14,8 @@ on:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   example_job:
-    name: Create english resume.pdf
-    runs-on: ubuntu-latest
-    steps:
-      - uses: janusmartinlee/Resume/.github/workflows/created-pdf@v1
-        with:
-          language: "english"
+    uses: janusmartinlee/Resume/.github/workflows/created-pdf@v1
+    with:
+      language: "english"
+    secrets: inherit
           
