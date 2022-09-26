@@ -17,10 +17,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository code
-        uses: actions/checkout@v2 # this checks out the repo in the ubuntu container
+        uses: actions/checkout@v3 # this checks out the repo in the ubuntu container
         
       - name: "Create pdf"
-        uses: ./.github/workflows/created-pdf.yml
+        uses: ./.github/workflows/create-pdf.yml
         with:
           language: "english"
           secrets: inherit
