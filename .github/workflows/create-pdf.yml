@@ -11,8 +11,6 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository code
-        uses: actions/checkout@v2 # this checks out the repo in the ubuntu container
       - name: "Create a folder called output"
         run: |
           mkdir output
