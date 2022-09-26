@@ -26,5 +26,5 @@ jobs:
     needs: check_out
     uses: ./.github/workflows/create-pdf.yml
     with:
-      language: "english"
+      language: "danish"
     secrets: inherit
