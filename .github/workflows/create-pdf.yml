@@ -1,15 +1,15 @@
 name: Create PDF File
 
 on:
-  push:
-    branches: [ "Master" ]
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
+  workflow_call:
+    inputs:
+      language:
+        required: true
+        type: string
+    
 jobs:
   convert_via_pandoc:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - name: Check out repository code
         uses: actions/checkout@v2 # this checks out the repo in the ubuntu container
@@ -17,7 +17,7 @@ jobs:
         run: |
           mkdir output
           cp md-styles.css output/md-styles.css
-          cp resume-english.md output/${{ github.actor }}-resume-english.md
+          cp resume-${{ inputs.language }}.md output/resume-${{ inputs.language }}.md
       # Downloading the binaries directly, because they are newer and work better, than the ones that come with Ubuntu latest.
       - name: "Install pandoc and wkhtmltopdf"
         run: |
@@ -27,12 +27,12 @@ jobs:
           sudo apt install ./wkhtmltox_0.12.6-1.bionic_amd64.deb
         
       - name: "Convert MD to HTML"
-        run: |
-          pandoc resume-english.md -f markdown -t html -c md-styles.css -s -o output/${{github.actor}}-resume-english.html
+        run: pandoc resume-${{ inputs.language }}.md -f markdown -t html -c md-styles.css -s -o output/resume-${{ inputs.language }}.html
+          
       - name: "Convert HTML to PDF "
-        run: |
-          wkhtmltopdf --enable-local-file-access output/${{github.actor}}-resume-english.html output/${{github.actor}}-resume-english.pdf
+        run: wkhtmltopdf --enable-local-file-access output/resume-${{ inputs.language }}.html output/resume-${{ inputs.language }}.pdf
+          
       - uses: actions/upload-artifact@master
         with: # basically this will put resume.md, resume.html, resume.pdf and resume-stylesheet.css in a zip file. 
-          name: ${{ github.actor }}'s Resume
+          name: Resume - ${{ inputs.language }}
           path: output
