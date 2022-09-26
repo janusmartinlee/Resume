@@ -23,6 +23,7 @@ jobs:
       - uses: actions/checkout@v3
       
   create_pdf:
+    needs: check_out
     uses: ./.github/workflows/create-pdf.yml
     with:
       language: "english"
