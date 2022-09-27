@@ -9,9 +9,9 @@ Bio
 
 |   <!-- -->   |   <!-- -->   |
 |--------------|--------------|
-| **Alder**      | 37 
-| **Addresse**  | Boyesgade 17 2.th, 1622 Vesterbro, Copenhagen 
-| **Tlf.**    | (+45) 26 29 40 93 
+| **Alder**    | 37 
+| **Addresse** | Boyesgade 17 2.th, 1622 Vesterbro, Copenhagen 
+| **Tlf.**     | 26 29 40 93 
 | **Email**    | janus.mmm@gmail.com 
 | **LinkdIn**  | [linkedin.com/in/janus-martin-lee-andersen-9064255a](https://www.linkedin.com/in/janus-martin-lee-andersen-9064255a) 
 
