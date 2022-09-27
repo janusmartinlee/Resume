@@ -54,12 +54,13 @@ Oticon A/S *(Feb 2013 – Jun 2013)*
 **Tømre**  
 John L Jakobsen *(Dec 2002 – Dec 2007)*
 
-Tech Profil
+Teknisk Profil
 -
 .NET &bull; 
 WPF &bull;
 Visual Studio &bull;
 Azure DevOps &bull;
+Azure &bull;
 Git
 
 Kompetencer
@@ -72,7 +73,16 @@ Krav Analyse &bull;
 Systemteknik &bull;
 Computer system validering
 
-Languages
+Træk
+-
+Holdspiller &bull;
+Struktureret &bull;
+Løsningsorienteret &bull;
+Engageret &bull;
+Pragmatisk &bull;
+Ansvarlig 
+
+Sprog
 -
 Dansk *(Modersmål)* &bull;
 Engelsk *(Flydende)*

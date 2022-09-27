@@ -69,6 +69,15 @@ Requirements Analysis &bull;
 Systems Engineering &bull;
 Computer System Validation
 
+Traits
+-
+Teamplayer &bull;
+Structured &bull;
+Solution minded &bull;
+Committed &bull;
+Pragmatic &bull;
+Accountable
+
 Languages
 -
 Danish *(Native)* &bull;
