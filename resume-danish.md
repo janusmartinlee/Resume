@@ -2,7 +2,7 @@
 Janus Martin Lee Andersen
 ======
 
-#### Full-stack softwareingeniør drevet af engagement i hele softwareudviklingens livscyklus og målet om at levere løsninger der er fleksible, pålidelige, nemme at vedligeholde.
+#### Full-stack softwareingeniør drevet af engagement i hele softwareudviklingens livscyklus og målet om at levere løsninger der er fleksible, pålidelige og nemme at vedligeholde.
 
 Bio
 -
