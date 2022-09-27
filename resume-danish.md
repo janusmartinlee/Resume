@@ -2,7 +2,7 @@
 Janus Martin Lee Andersen
 ======
 
-#### Full-stack softwareingeniør drevet af engagement i den fulde SDLC.  
+#### Full-stack softwareingeniør drevet af engagement i den fulde SDLC med målet om at levere softwareløsninger der er fleksible, pålidelige, vedligeholdelige.  
 
 Bio
 -
