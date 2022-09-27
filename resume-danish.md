@@ -37,7 +37,7 @@ Erfaring
 **Senior Systems Eng. Software Engineer**  
 Oticon A/S *(Feb 2014 – Present)*  
 
-- Design og udvikling af softwareløsninger til understøttelse af den udvikling og test der er involveret i levering af høreapparater af høj kvalitet til slutbrugere.
+- Design og udvikling af softwareløsninger til understøttelse af udviklingen af høreapparater af høj kvalitet.
 
 
 **Medstifter**  
