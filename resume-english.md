@@ -48,7 +48,7 @@ Bunkerbauer Records *(Apr 2018 – Present)*
 **Internship**  
 Oticon A/S *(Feb 2013 – Jun 2013)*
 
-- Intern at Oticon A/S on the Music Forever project, collaboration between Oticon A/S and Roskilde festival to analyze the sound environment at the festival.
+- On the Music Forever project. A collaboration with Roskilde festival.
 
 **Carpenter**  
 John L Jakobsen *(Dec 2002 – Dec 2007)*
