@@ -37,8 +37,8 @@ Experience
 Oticon A/S *(Feb 2014 – Present)*  
 
 - Developing software solutions for supporting the development and testing involved in delivering high quality hearing devices to end-users.
-- Governance of the software solutions compatibility with the ever-evolving system landscape and compliance with any regulatory requirements.
-- Creator and writer of development process for ensuring quality, flexibility and maintainability for all internal applications across the organization, based on industry best practices and with offset in the SOLID principles, with the goal of supporting agile development methodologies.
+- Governance of the software solutions compatibility with the ever-evolving system landscape and compliance with regulatory requirements.
+- Creator and writer of internal development process, based on industry best practices and the SOLID principles, to support agile development methodologies.
 
 **Co-Founder**  
 Bunkerbauer Records *(Apr 2018 – Present)*
@@ -85,10 +85,12 @@ Traits
 -
 Accountable &bull;
 Committed &bull;
+Forthright &bull;
 Pragmatic &bull;
-Solution minded &bull;
 Structured &bull;
-Team player 
+Systems mindset &bull;
+Team player &bull; 
+Truthful
 
 Languages
 -
