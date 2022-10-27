@@ -120,7 +120,7 @@ a {
 
 h1 {
     font-size: 2em;
-    margin: 0.67em 0;
+    margin: 0.63em 0;
 }
 
 /**
@@ -448,14 +448,14 @@ body {
     margin: auto;
     padding-right: 1em;
     padding-left: 1em;
-    max-width: 64em;
+    max-width: 74em;
     color: black;
 }
 
 body {
     font: 13.34pxHelvetica;
     -webkit-font-smoothing: subpixel-antialiased;
-    line-height: 1.4;
+    line-height: 1.2;
     padding: 3px;
     background: #fff;
     border-radius: 3px;
