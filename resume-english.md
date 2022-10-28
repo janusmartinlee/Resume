@@ -48,15 +48,15 @@ Oticon A/S *(Feb 2013 – Jun 2013)*
 **Carpenter**  
 John L Jakobsen *(Dec 2002 – Dec 2007)*
 
-Tech Stack <span style="font-size:12px; font-weight:normal; ">(**Proficient** - Competent - *Beginner*)</span>
+Tech Stack <span style="font-size:12px; font-weight:normal; ">( **Proficient** - Competent - *Beginner* )</span>
 -
 Azure &bull;
 *Blazor* &bull;
 **C#** &bull;
-Confluence &bull;
 EF Core &bull;
 Git &bull; 
 JIRA &bull; 
+Markdown &bull; 
 **.NET** &bull;
 *SQL* &bull; 
 **Visual Studio** &bull;
