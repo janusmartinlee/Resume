@@ -22,7 +22,7 @@ DTU - Technical University of Denmark *(2009-2013)*
 Bachelor project at Oticon A/S:
 Detection and classification of reverberant environments for the application in hearing aids.
 
-- A study in algorithms for blind reverberation time estimation, with tmplementation and verification in MATLAB.
+- A study in algorithms for blind reverberation time estimation, with implementation and verification in MATLAB.
 
 **Adgangskursus**  
 DTU - Technical University of Denmark *(2007 – 2008)*
