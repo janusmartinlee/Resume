@@ -43,12 +43,8 @@ Oticon A/S *(Feb 2014 – Present)*
 **Co-Founder**  
 Bunkerbauer Records *(Apr 2018 – Present)*
 
-- Small Copenhagen based independent record label.
-
 **Internship**  
 Oticon A/S *(Feb 2013 – Jun 2013)*
-
-- On the Music Forever project. A collaboration with Roskilde festival to analyze the sound environment at the festival.
 
 **Carpenter**  
 John L Jakobsen *(Dec 2002 – Dec 2007)*
