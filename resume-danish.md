@@ -9,7 +9,7 @@ Bio
 
 |   <!-- -->   |   <!-- -->   |
 |--------------|--------------|
-| **Alder**    | 37 
+| **Alder**    | 38 
 | **Addresse** | Boyesgade 17 2.th, 1622 Vesterbro, Copenhagen 
 | **Tlf.**     | 26 29 40 93 
 | **Email**    | janus.mmm@gmail.com 
