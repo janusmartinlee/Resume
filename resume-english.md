@@ -2,7 +2,7 @@
 Janus Martin Lee Andersen
 ======
 
-#### Full-stack software engineer driven by engagement in the full SDLC with the aim of delivering software solutions that are flexible, reliable, and maintainable. 
+#### Full-stack senior software engineer driven by engagement in the full SDLC with the aim of delivering flexible, reliable, and maintainable software solutions. 
 
 Bio
 -
@@ -48,19 +48,18 @@ Oticon A/S *(Feb 2013 – Jun 2013)*
 **Carpenter**  
 John L Jakobsen *(Dec 2002 – Dec 2007)*
 
-Tech Stack <span style="font-size:12px; font-weight:normal; ">( **Proficient** - Competent - *Beginner* )</span>
+Tech Stack
 -
 Azure &bull;
-*Blazor* &bull;
-**C#** &bull;
+C# &bull;
 EF Core &bull;
 Git &bull; 
 JIRA &bull; 
 Markdown &bull; 
-**.NET** &bull;
-*SQL* &bull; 
-**Visual Studio** &bull;
-**WPF**
+.NET &bull;
+SQL &bull; 
+Visual Studio &bull;
+WPF
 
 
 
@@ -84,8 +83,7 @@ Forthright &bull;
 Pragmatic &bull;
 Structured &bull;
 Systems mindset &bull;
-Team player &bull; 
-Truthful
+Team player
 
 Languages
 -
