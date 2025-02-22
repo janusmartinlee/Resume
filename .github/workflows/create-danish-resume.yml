@@ -24,7 +24,7 @@ jobs:
       
   create_pdf:
     needs: check_out
-    uses: ./.github/workflows/create-pdf.yml
+    uses: ./.github/workflows/create-pdf-converttopdf.yml
     with:
       language: "danish"
     secrets: inherit
