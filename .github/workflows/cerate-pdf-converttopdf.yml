@@ -19,7 +19,7 @@ jobs:
           output_dir: output
           # Default is true, can set to false to only get PDF files
           build_html: false
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@master
         with:
-          name: docs
+          name: Resume - ${{ inputs.language }}
           path: output
