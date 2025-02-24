@@ -1,113 +1,73 @@
+# Janus Martin Lee Andersen  
 
-Janus Martin Lee Andersen
-======
+📍 **Copenhagen, Denmark** &nbsp;|&nbsp; 📧 [janus.mmm@gmail.com](mailto:janus.mmm@gmail.com) &nbsp;|&nbsp; 📞 (+45) 26 29 40 93 &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/janus-martin-lee-andersen-9064255a)  
 
-#### Experianced full-stack software engineer and tech lead driven by engagement in the full SDLC and with as much satisfaction in delivering flexible, reliable, and maintainable software solutions as an IC, as mentoring and supporting my team mates in doing the same. 
+---
 
-Bio
--
+## **About Me**  
+Experienced **full-stack software engineer & tech lead** with a passion for the **full software development lifecycle**. Equally committed to delivering **scalable, maintainable solutions** and mentoring teams to achieve excellence.  
 
-|   <!-- -->   |   <!-- -->   |
-|--------------|--------------|
-| **Age**      | 40 |
-| **Address**  | Boyesgade 17 2.th, 1622 Vesterbro, Copenhagen |
-| **Phone**    | (+45) 26 29 40 93 |
-| **Email**    | <janus.mmm@gmail.com> |
-| **LinkedIn** | [linkedin.com/in/janus-martin-lee-andersen-9064255a](https://www.linkedin.com/in/janus-martin-lee-andersen-9064255a) |
+---
 
-Experience
--
+## **Experience**  
 
-**Lead Software Design Engineer**  
-Flow Robotics A/S *(Mar 2023 – Present)*
+### **Lead Software Design Engineer** – *Flow Robotics A/S* *(Mar 2023 – Present)*  
+- Stabilized and maintained the legacy software platform for deployed systems.  
+- Initiated and led a modernization initiative, improving software maintainability and reducing technical debt, ensuring the platform's future scalability.  
+- Led and mentored the software team in the development of a new generation of laboratory automation solutions.  
 
-- Stabalized and maintained the legacy software platform for deployed systems.
-- Spearheaded mordanization project with the goal of securing the future of the software platform.
-- Lead and mentored the software team in the development of a new generation of laboratory automation solutions.
+### **Senior Systems Eng. Software Engineer** – *Oticon A/S* *(Feb 2014 – Feb 2023)*  
+- Developed software solutions for supporting the development and QA processes needed for delivering high-quality hearing devices to end-users.  
+- Governed the software solution's compatibility with the ever-evolving system landscape and compliance with regulatory requirements.  
+- Created and wrote an internal development process, based on industry best practices and the SOLID principles, to support agile development methodologies.  
 
-**Senior Systems Eng. Software Engineer**  
-Oticon A/S *(Feb 2014 – Feb 2023)*  
+### **Internship** – *Oticon A/S - Music Forever Project* *(Feb 2013 – Jun 2013)*  
+- A collaboration between Oticon A/S and Roskilde Festival to analyze the sound environment at the festival.  
 
-- Developed software solutions for supporting the development and QA processes needed for delivering high quality hearing devices to end-users.
-- Governaned of the software solutions's compatibility with the ever-evolving system landscape and compliance with regulatory requirements.
-- Created and wrote an internal development process, based on industry best practices and the SOLID principles, to support agile development methodologies.
+### **Carpenter** – *John L Jakobsen* *(Dec 2002 – Dec 2007)*  
+- Did my apprenticeship and a couple of years as a qualified carpenter before having a work-related accident.  
 
-**Internship**  
-Oticon A/S - Music Forever project *(Feb 2013 – Jun 2013)*
+---
 
-- A collaboration between Oticon A/S and Roskilde festival to analyse the sound environment at the festival.
-
-**Carpenter**  
-John L Jakobsen *(Dec 2002 – Dec 2007)*
-
-- Did my apprenticeship and a couple of years as qualified carpenter before havving an work related accident.
-
-Education
--
+## **Education**  
 
 **Bachelor of Science (B.Sc.), Electrical and Electronics Engineering**  
-DTU - Technical University of Denmark *(2009-2013)*  
-Bachelor project at Oticon A/S:
-Detection and classification of reverberant environments for the application in hearing aids.
+DTU - Technical University of Denmark *(2009 – 2013)*  
+- **Bachelor Project at Oticon A/S:** Detection and classification of reverberant environments for application in hearing aids.  
+- A study in algorithms for blind reverberation time estimation, with implementation and verification in MATLAB.  
 
-- A study in algorithms for blind reverberation time estimation, with implementation and verification in MATLAB.
+**Adgangskursus** – DTU - Technical University of Denmark *(2007 – 2008)*  
 
-**Adgangskursus**  
-DTU - Technical University of Denmark *(2007 – 2008)*
+**Carpentry Certification** – Københavns Tekniske Skole *(2001 – 2005)*  
 
-**Carpenter**  
-Købehavns tekniske skole *(2001 – 2005)*
+---
 
-Tech Stack
--
+## **Tech Stack & Practices**  
 
-ABP Framework &bull;
-ASP.NET &bull;
-Azure &bull;
-C# &bull;
-Blazor &bull;
-EF Core &bull;
-Git &bull;
-JavaScript &bull;
-JIRA &bull;
-Markdown &bull;
-.NET &bull;
-Python &bull;
-SQL &bull;
-Typescript &bull;
-Visual Studio &bull;
-WPF
+**Programming Languages:** C# • Python • JavaScript • TypeScript • SQL  
 
-Competencies
--
+**Backend & Frameworks:** .NET • ASP.NET • EF Core • ABP Framework  
 
-DI/CD &bull;
-Computer System Validation &bull;
-DDD &bull;
-DevOps &bull;
-Mentoring &bull;
-Process &bull;
-Requirements Analysis &bull;
-Scrum &bull;
-SOLID &bull;
-Stakeholder Management &bull;
-Strategy &bull;
-Systems Engineering &bull;
-TDD
+**Frontend:** Blazor • WPF  
 
-Traits
--
+**DevOps & Cloud:** Azure • Git • CI/CD  
 
-Accountable &bull;
-Committed &bull;
-Forthright &bull;
-Pragmatic &bull;
-Structured &bull;
-Systems thinker &bull;
-Team player
+**Tools & Workflow:** Visual Studio • JIRA • Markdown  
 
-Languages
--
+**Architecture & Software Development:** DDD • TDD • Agile • DevOps • Systems Engineering  
 
-Danish *(Native)* &bull;
-English *(Fluent/Prefered when technical)*  
+---
+
+## **Traits**  
+
+- Pragmatic – Focused on real-world, maintainable solutions.  
+- Accountable – Takes ownership & drives results.  
+- Systems Thinker – Big-picture perspective for complex domains.  
+- Collaborative – Team-first mindset, strong mentoring abilities.  
+
+---
+
+## **Languages**  
+
+- **Danish** – Native  
+- **English** – Fluent (Preferred for technical discussions)  
