@@ -70,13 +70,17 @@ DTU - Technical University of Denmark *(2009 – 2013)*
 ## **Traits**  
 
 **Pragmatic** Focused on real-world, maintainable solutions.  
+
 **Accountable** Takes ownership & drives results.  
+
 **Systems Thinker** Big-picture perspective for complex domains.  
+
 **Collaborative** Team-first mindset, strong mentoring abilities.  
 
 ---
 
 ## **Languages**  
 
-- **Danish** – Native  
-- **English** – Fluent (Preferred for technical discussions)  
+**Danish** – Native  
+
+**English** – Fluent (Preferred for technical discussions)  
