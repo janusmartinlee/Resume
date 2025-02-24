@@ -63,24 +63,24 @@ DTU - Technical University of Denmark *(2009 – 2013)*
 
 **Tools & Workflow:** Visual Studio • JIRA • Markdown  
 
-**Architecture & Software Development:** DDD • TDD • Agile • DevOps • Systems Engineering  
+**Design & Development:** DDD • TDD • Agile • DevOps • Systems Engineering  
 
 ---
 
 ## **Traits**  
 
-**Pragmatic** Focused on real-world, maintainable solutions.  
+**Pragmatic:** Focused on real-world, maintainable solutions.  
 
-**Accountable** Takes ownership & drives results.  
+**Accountable:** Takes ownership & drives results.  
 
-**Systems Thinker** Big-picture perspective for complex domains.  
+**Systems Thinker:** Big-picture perspective for complex domains.  
 
-**Collaborative** Team-first mindset, strong mentoring abilities.  
+**Collaborative:** Team-first mindset, strong mentoring abilities.  
 
 ---
 
 ## **Languages**  
 
-**Danish** – Native  
+**Danish:** Native  
 
-**English** – Fluent (Preferred for technical discussions)  
+**English:** Fluent (Preferred for technical discussions)  
