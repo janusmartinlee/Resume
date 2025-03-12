@@ -12,7 +12,7 @@ Experienced **full-stack software engineer & tech lead** with a passion for the 
 
 ## **Experience**  
 
-### **Lead Software Design Engineer** – *Flow Robotics A/S* *(Mar 2023 – Present)*  
+### **Lead Software Design Engineer** – *Flow Robotics A/S* *(Mar 2023 – Feb 2025)*  
 
 - Stabilized and maintained the legacy software platform for deployed systems.  
 - Initiated and led a modernization initiative, improving software maintainability and reducing technical debt, ensuring the platform's future scalability.  
