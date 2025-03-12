@@ -1,6 +1,6 @@
 # Janus Martin Lee Andersen  
 
-:round_pushpin: **Copenhagen, Denmark** &nbsp;|&nbsp; :envelope: [janus.mmm@gmail.com](mailto:janus.mmm@gmail.com) &nbsp;|&nbsp; :telephone_receiver: (+45) 26 29 40 93 &nbsp;|&nbsp; :link: [LinkedIn](https://www.linkedin.com/in/janus-martin-lee-andersen-9064255a)  
+📍 **Copenhagen, Denmark** &nbsp;|&nbsp; 📧 [janus.mmm@gmail.com](mailto:janus.mmm@gmail.com) &nbsp;|&nbsp; 📞 (+45) 26 29 40 93 &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/janus-martin-lee-andersen-9064255a)  
 
 ---
 
