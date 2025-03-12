@@ -34,8 +34,6 @@ Experienced **full-stack software engineer & tech lead** with a passion for the 
 - Did my apprenticeship and a couple of years as a qualified carpenter.
 - Transitioned to engineering after having a work-related accident.  
 
----
-
 ## **Education**  
 
 **Bachelor of Science (B.Sc.), Electrical and Electronics Engineering**  
