@@ -6,7 +6,9 @@
 
 ## **About Me**  
 
-Experienced **full-stack software engineer & tech lead** with a passion for the **full software development lifecycle**. I **thrive on** overseeing and driving software development from a **high-level architectural perspective**, ensuring **scalability, maintainability, and alignment with long-term business objectives**. Equally committed to delivering **robust solutions** and mentoring teams to achieve excellence.  
+Experienced **full-stack software engineer & tech lead** with a passion for the **full software development lifecycle**. 
+I **thrive on** overseeing and driving software development from a **high-level architectural perspective**, ensuring **scalability, maintainability, and alignment with long-term business objectives**. 
+Equally committed to delivering **robust solutions** and mentoring teams to achieve excellence.  
 
 ---
 
@@ -20,8 +22,8 @@ Experienced **full-stack software engineer & tech lead** with a passion for the 
 
 ### **Senior Systems Eng. Software Engineer** – *Oticon A/S* *(Feb 2014 – Feb 2023)*  
 
-- Designed and implemented multiple client applications for supporting the development and QA processes needed for delivering high-quality hearing devices to end-users.  
-- Governed the software solution's compatibility with the ever-evolving system landscape and compliance with regulatory requirements.
+- Designed and implemented multiple WPF client applications for supporting the development and QA processes needed for delivering high-quality hearing devices to end-users.  
+- Governed the software solution's compatibility with an ever-evolving systems landscape and compliance with regulatory requirements.
 - Designed and wrote an internal development process, based on industry best practices and the SOLID principles, to support agile development methodologies.  
 - Designed and implemented 30+ MATLAB APIs, ensuring different internal R&D functions a unified toolbox as foundation for their work.  
 
@@ -54,13 +56,13 @@ DTU - Technical University of Denmark *(2009 – 2013)*
 
 **Programming Languages:** C# • Python • JavaScript • TypeScript • SQL  
 
-**Backend & Frameworks:** .NET • ASP.NET • EF Core • ABP Framework  
+**Backend & Frameworks:** .NET • ASP.NET Core • EF Core • ABP Framework  
 
 **Frontend:** Blazor • WPF  
 
 **DevOps & Cloud:** Azure • Git • CI/CD  
 
-**Tools & Workflow:** Visual Studio • JIRA • Markdown  
+**Tools & Workflow:** Visual Studio • JIRA • Visual Studio Code • GitHub  
 
 **Design & Development:** DDD • TDD • Agile • DevOps • Systems Engineering  
 
