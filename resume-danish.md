@@ -48,7 +48,7 @@ DTU - Danmarks Tekniske Universitet *(2009 – 2013)*
 
 **Adgangskursus** – DTU - Danmarks Tekniske Universitet *(2007 – 2008)*
 
-**Tømrercertifikat** – Københavns Tekniske Skole *(2001 – 2005)*
+**Tømrer** – Københavns Tekniske Skole *(2001 – 2005)*
 
 ---
 
