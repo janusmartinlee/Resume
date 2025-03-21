@@ -4,7 +4,7 @@
 
 ---
 
-## **About Me**  
+## **Professional Summary**  
 
 Experienced **full-stack software engineer & tech lead** with a passion for the **full software development lifecycle**. 
 I **thrive on** overseeing and driving software development from a **high-level architectural perspective**, ensuring **scalability, maintainability, and alignment with long-term business objectives**. 
@@ -16,16 +16,16 @@ Equally committed to delivering **robust solutions** and mentoring teams to achi
 
 ### **Lead Software Design Engineer** – *Flow Robotics A/S* *(Mar 2023 – Feb 2025)*  
 
-- Stabilized and maintained the legacy software platform for deployed systems.  
-- Initiated and led a modernization initiative, improving software maintainability and reducing technical debt, ensuring the platform's future scalability.  
-- Led and mentored the software team in the development of a new generation of laboratory automation solutions.  
+- Drove stabilization of the legacy web app to reduce the **Change Failure Rate (CFR)** and decreased the **rework rate** from **80%** to **10%**  
+- Initiated and led a modernization initiative, redoing the legacy web app using **Domain Driven Design**, for **clear comunication** and **seperation of concerns**, using **Blazor/.NET** and modern **CI/CD** techniques.  
+- Led and mentored a software team of 3 to deliver high quality solutions, solving business goals until the company went bankrupt.  
 
 ### **Senior Systems Eng. Software Engineer** – *Oticon A/S* *(Feb 2014 – Feb 2023)*  
 
-- Designed and implemented multiple WPF client applications for supporting the development and QA processes needed for delivering high-quality hearing devices to end-users.  
+- Designed and implemented multiple **WPF/.NET** based desktop applications for supporting internal development, **increasing productivity** and **reducing error rates**.  
 - Governed the software solution's compatibility with an ever-evolving systems landscape and compliance with regulatory requirements.
-- Designed and wrote an internal development process, based on industry best practices and the SOLID principles, to support agile development methodologies.  
-- Designed and implemented 30+ MATLAB APIs, ensuring different internal R&D functions a unified toolbox as foundation for their work.  
+- Designed and wrote an internal development process, based on industry best practices and the **SOLID** principles, to support agile development methodologies.  
+- Designed and implemented **30+** MATLAB APIs, ensuring different internal R&D functions a **unified toolbox** as foundation for their work.  
 
 ### **Internship** – *Oticon A/S - Music Forever Project* *(Feb 2013 – Jun 2013)*  
 
@@ -52,7 +52,7 @@ DTU - Technical University of Denmark *(2009 – 2013)*
 
 ---
 
-## **Tech Stack & Practices**  
+## **Tech Stack & Skills**  
 
 **Programming Languages:** C# • Python • JavaScript • TypeScript • SQL  
 
@@ -68,7 +68,7 @@ DTU - Technical University of Denmark *(2009 – 2013)*
 
 ---
 
-## **Traits**  
+## **Professional Traits**  
 
 **Pragmatic:** Focused on real-world, maintainable solutions.  
 
