@@ -27,6 +27,7 @@ Lige dedikeret til at levere **robuste løsninger**, som til at **vejlede og sty
 #### **Praktik** – *Oticon A/S - Music Forever Project* *(Feb 2013 – Jun 2013)*
 
 #### **Tømrer** – *John L Jakobsen* *(Dec 2002 – Dec 2007)*
+<div style="page-break-after: always;"></div>
 
 ## **Uddannelse**
 

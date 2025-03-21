@@ -27,6 +27,7 @@ Equally committed to delivering **robust solutions** and **mentoring the team** 
 #### **Internship** – *Oticon A/S - Music Forever Project* *(Feb 2013 – Jun 2013)*  
 
 #### **Carpenter** – *John L Jakobsen* *(Dec 2002 – Dec 2007)*  
+<div style="page-break-after: always;"></div>
 
 ## **Education**  
 
