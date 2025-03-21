@@ -2,15 +2,11 @@
 
 📍 **Copenhagen, Denmark** &nbsp;|&nbsp; 📧 [janus.mmm@gmail.com](mailto:janus.mmm@gmail.com) &nbsp;|&nbsp; 📞 (+45) 26 29 40 93 &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/janus-martin-lee-andersen-9064255a)  
 
----
-
 ## **Professional Summary**  
 
 Experienced **full-stack software engineer & tech lead** with a passion for the **full software development lifecycle**.  
 I **thrive on** overseeing and driving software development from a **high-level architectural perspective**, ensuring **scalability, maintainability, and alignment with long-term business objectives**.  
-Equally committed to delivering **robust solutions** and mentoring teams to achieve excellence.  
-
----
+Equally committed to delivering **robust solutions** and **mentoring the team** to achieve excellence.  
 
 ## **Experience**  
 
@@ -32,36 +28,27 @@ Equally committed to delivering **robust solutions** and mentoring teams to achi
 
 #### **Carpenter** – *John L Jakobsen* *(Dec 2002 – Dec 2007)*  
 
----
-
 ## **Education**  
 
-**Bachelor of Science (B.Sc.), Electrical and Electronics Engineering**  
-
-DTU - Technical University of Denmark *(2009 – 2013)*  
+### **Bachelor of Science (B.Sc.), Electrical and Electronics Engineering** - *DTU - Technical University of Denmark (2009 – 2013)*  
 
 - **Bachelor Project at Oticon A/S:** Detection and classification of reverberant environments for application in hearing aids.  
 
 - A study in algorithms for blind reverberation time estimation, with implementation and verification in MATLAB.  
 
-**Adgangskursus** – DTU - Technical University of Denmark *(2007 – 2008)*  
+#### **Adgangskursus** – *DTU - Technical University of Denmark (2007 – 2008)*  
 
-**Carpentry Certification** – Københavns Tekniske Skole *(2001 – 2005)*  
-
----
+#### **Carpentry Certification** – *Københavns Tekniske Skole (2001 – 2005)*  
 
 ## **Skills**  
 
-**Languages:** C# • JavaScript • Python • SQL • TypeScript 
+**Languages:** C# • JavaScript • Python • SQL • TypeScript  
 
 **Frameworks:** ABP Framework • ASP.NET Core • Blazor • EF Core • .NET • WPF  
 
 **Tools:** Azure • CI/CD • Git • GitHub • JIRA • Visual Studio  
 
 **Design & Development:** Agile • DDD • Systems Engineering • TDD  
-
-
----
 
 ## **Professional Traits**  
 
@@ -72,8 +59,6 @@ DTU - Technical University of Denmark *(2009 – 2013)*
 **Systems Thinker:** Big-picture perspective for complex domains.  
 
 **Collaborative:** Team-first mindset, strong mentoring abilities.  
-
----
 
 ## **Languages**  
 
