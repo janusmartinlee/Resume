@@ -50,19 +50,16 @@ DTU - Technical University of Denmark *(2009 – 2013)*
 
 ---
 
-## **Tech Stack & Skills**  
+## **Skills**  
 
-**Programming Languages:** C# • Python • JavaScript • TypeScript • SQL  
+**Languages:** C# • JavaScript • Python • SQL • TypeScript 
 
-**Backend & Frameworks:** .NET • ASP.NET Core • EF Core • ABP Framework  
+**Frameworks:** ABP Framework • ASP.NET Core • Blazor • EF Core • .NET • WPF  
 
-**Frontend:** Blazor • WPF  
+**Tools:** Azure • CI/CD • Git • GitHub • JIRA • Visual Studio  
 
-**DevOps & Cloud:** Azure • Git • CI/CD  
+**Design & Development:** Agile • DDD • Systems Engineering • TDD  
 
-**Tools & Workflow:** Visual Studio • JIRA • GitHub  
-
-**Design & Development:** DDD • TDD • Agile • DevOps • Systems Engineering  
 
 ---
 
