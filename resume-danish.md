@@ -4,7 +4,7 @@
 
 ---
 
-## **Om mig**
+## **Resumé**
 
 Erfaren **full-stack softwareudvikler & tech lead** med passion for **hele softwareudviklingsprocessen**.
 Jeg trives med at have overblik og drive softwareudvikling fra et overordnet arkitektonisk perspektiv, hvor fokus er på **skalerbarhed, vedligeholdelse og langsigtet forretningsværdi**.
