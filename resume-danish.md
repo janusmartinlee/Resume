@@ -22,7 +22,6 @@ Lige dedikeret til at levere **robuste løsninger**, som til at **vejlede og sty
 - Sikrede softwareløsningens kompatibilitet med et konstant udviklende systemlandskab og overholdelse af regulatoriske krav.
 - Udformede og skrev en intern udviklingsproces baseret på industriens bedste praksis og **SOLID**-principperne for at understøtte agile udviklingsmetoder.
 - Designede og implementerede **30+** MATLAB API’er, hvilket gav udviklingsafdelingen en **samlet værktøjskasse** til understøttelse af deres arbejde.
-- Var en del af **Systems Engineering Tools Team**, som administrerede integration og verifikation af tredjepartsværktøjer.
 
 #### **Praktik** – *Oticon A/S - Music Forever Project* *(Feb 2013 – Jun 2013)*
 

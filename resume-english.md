@@ -22,7 +22,6 @@ Equally committed to delivering **robust solutions** and **mentoring the team** 
 - Governed the software solution's compatibility with an ever-evolving systems landscape and compliance with regulatory requirements.
 - Designed and wrote an internal development process, based on industry best practices and the **SOLID** principles, to support agile development methodologies.  
 - Designed and implemented **30+** MATLAB APIs, ensuring internal R&D functions a **unified toolbox** as foundation for their work.  
-- Was part of the Systems Engineering Tools Team, managing integration and verification of 3^rd^ party tool.  
 
 #### **Internship** – *Oticon A/S - Music Forever Project* *(Feb 2013 – Jun 2013)*  
 
