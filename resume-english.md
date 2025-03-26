@@ -21,6 +21,7 @@ Equally committed to delivering **robust solutions** and **mentoring the team** 
 - Designed and implemented multiple **WPF/.NET** based desktop applications for supporting internal development, **increasing productivity** and **reducing error rates**.  
 - Governed the software solution's compatibility with an ever-evolving systems landscape and compliance with regulatory requirements.
 - Designed and wrote an internal development process, based on industry best practices and the **SOLID** principles, to support agile development methodologies.  
+- Designed and implemented **30+** MATLAB APIs, ensuring internal R&D functions a **unified toolbox** as foundation for their work.  
 
 #### **Internship** – *Oticon A/S - Music Forever Project* *(Feb 2013 – Jun 2013)*  
 
@@ -41,11 +42,11 @@ Equally committed to delivering **robust solutions** and **mentoring the team** 
 
 ## **Skills**  
 
-**Languages:** C# • HTML/CSS • JavaScript • SQL  
+**Languages:** C# • Python • SQL  
 
-**Frameworks:** ASP.NET Core • Blazor • EF Core • .NET  
+**Frameworks:** ASP.NET Core • Blazor • EF Core • .NET • WPF  
 
-**Tools:** Azure • Azure DevOps • CI/CD • Git • Visual Studio  
+**Tools:** Azure • Azure DevOps • Git • JIRA • Visual Studio  
 
 **Design & Development:** Agile • DDD • Systems Engineering  
 
