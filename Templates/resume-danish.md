@@ -19,7 +19,7 @@ Lige dedikeret til at levere **robuste løsninger**, som til at **vejlede og sty
 ### **Senior Systems Eng. Software Engineer** – *Oticon A/S* *(Feb 2014 – Feb 2023)*
 
 - Designede og implementerede flere **WPF/.NET** desktopapplikationer til intern udvikling, hvilket **øgede produktiviteten** og **reducerede fejl**.
-- Sikrede softwareløsningens kompatibilitet med et konstant udviklende systemlandskab og overholdelse af regulatoriske krav.
+- Sikrede ejede softwaresystemers kompatibilitet med et konstant udviklende systemlandskab og overholdelse af regulatoriske krav, gennem tæt samarbejde med stakeholders.
 - Udformede og skrev en intern udviklingsproces baseret på industriens bedste praksis og **SOLID**-principperne for at understøtte agile udviklingsmetoder.
 - Designede og implementerede **30+** MATLAB API’er, hvilket gav udviklingsafdelingen en **samlet værktøjskasse** til understøttelse af deres arbejde.
 
