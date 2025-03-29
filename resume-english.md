@@ -12,7 +12,7 @@ Equally committed to delivering **robust solutions** and **mentoring the team** 
 
 ### **Lead Software Design Engineer** – *Flow Robotics A/S* *(Mar 2023 – Feb 2025)*  
 
-- Drove stabilization of the legacy **AngularJS/Python** web app to decreased the **Change Failure Rate (CFR)** and **rework rate** from **80%** to **10%**.  
+- Drove stabilization of the legacy **SPA** and **REST API** to decreased the **Change Failure Rate (CFR)** and **rework rate** from **80%** to **10%**.  
 - Initiated and led a modernization initiative, redoing the legacy web app using **Domain Driven Design**, for **clear communication** and **separation of concerns**, using **Blazor/.NET** and modern **CI/CD** techniques.  
 - **Led** and **mentored** a software team of &pm;3, to deliver high quality solutions, implementing business goals until the company went bankrupt.  
 
@@ -42,13 +42,13 @@ Equally committed to delivering **robust solutions** and **mentoring the team** 
 
 ## **Skills**  
 
-**Languages:** C# • JavaScript • Python • SQL • TypeScript  
+**Languages:** C# • JavaScript • SQL  
 
-**Frameworks:** ABP Framework • ASP.NET Core • Blazor • EF Core • .NET • WPF  
+**Frameworks:** ASP.NET Core • Blazor • EF Core • .NET  
 
-**Tools:** Azure • CI/CD • Git • GitHub • JIRA • Visual Studio  
+**Tools:** Azure • Azure DevOps • CI/CD • Git • GitHub • Visual Studio  
 
-**Design & Development:** Agile • DDD • Systems Engineering • TDD  
+**Design & Development:** Agile • DDD • Systems Engineering • TDD   
 
 ## **Professional Traits**  
 
