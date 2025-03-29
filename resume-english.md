@@ -19,7 +19,7 @@ Equally committed to delivering **robust solutions** and **mentoring the team** 
 ### **Senior Systems Eng. Software Engineer** – *Oticon A/S* *(Feb 2014 – Feb 2023)*  
 
 - Designed and implemented multiple **WPF/.NET** based desktop applications for supporting internal development, **increasing productivity** and **reducing error rates**.  
-- Governed the software solution's compatibility with an ever-evolving systems landscape and compliance with regulatory requirements.
+- Governed owned software solutions's compatibility with an ever-evolving systems landscape and compliance with regulatory requirements through close colaboration with stakeholders.
 - Designed and wrote an internal development process, based on industry best practices and the **SOLID** principles, to support agile development methodologies.  
 - Designed and implemented **30+** MATLAB APIs, ensuring internal R&D functions a **unified toolbox** as foundation for their work.  
 
@@ -42,13 +42,13 @@ Equally committed to delivering **robust solutions** and **mentoring the team** 
 
 ## **Skills**  
 
-**Languages:** C# • Python • SQL  
+**Languages:** C# • JavaScript • Python • SQL • TypeScript  
 
-**Frameworks:** ASP.NET Core • Blazor • EF Core • .NET • WPF  
+**Frameworks:** ABP Framework • ASP.NET Core • Blazor • EF Core • .NET • WPF  
 
-**Tools:** Azure • Azure DevOps • Git • JIRA • Visual Studio  
+**Tools:** Azure • CI/CD • Git • GitHub • JIRA • Visual Studio  
 
-**Design & Development:** Agile • DDD • Systems Engineering  
+**Design & Development:** Agile • DDD • Systems Engineering • TDD  
 
 ## **Professional Traits**  
 
