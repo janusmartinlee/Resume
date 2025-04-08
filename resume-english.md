@@ -42,13 +42,13 @@ Equally committed to delivering **robust solutions** and **mentoring the team** 
 
 ## **Skills**  
 
-**Languages:** C# • JavaScript • Python • SQL  
+**Languages:** C# • JavaScript • SQL  
 
-**Frameworks:** ASP.NET Core • Blazor • EF Core • .NET • WPF  
+**Frameworks:** ASP.NET Core • Blazor • EF Core • .NET  
 
-**Tools:** Azure • CI/CD • Git • GitHub • JIRA • Visual Studio  
+**Tools:** Azure • CI/CD • Git • GitHub • Visual Studio  
 
-**Design & Development:** Agile • DDD • Systems Engineering • TDD  
+**Design & Development:** Agile • DDD • SOLID • Systems Engineering • TDD  
 
 ## **Professional Traits**  
 
