@@ -1,6 +1,6 @@
-# Janus Martin Lee Andersen  
+# J M L Andersen  
 
-📍 **Copenhagen, Denmark** &nbsp;|&nbsp; 📧 [janus.mmm@gmail.com](mailto:janus.mmm@gmail.com) &nbsp;|&nbsp; 📞 (+45) 26 29 40 93 &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/janus-martin-lee-andersen-9064255a)  
+📍 **Copenhagen, Denmark** &nbsp;|&nbsp; &nbsp;|&nbsp; 📞 (+45) 26 29 40 93 &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/janus-martin-lee-andersen-9064255a)  
 
 ## **Professional Summary**  
 
