@@ -1,6 +1,6 @@
-# J M L Andersen  
+# Janus Martin Lee Andersen  
 
-📍 **Copenhagen, Denmark** &nbsp;|&nbsp; &nbsp;|&nbsp; 📞 (+45) 26 29 40 93 &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/janus-martin-lee-andersen-9064255a)  
+📍 **Copenhagen, Denmark** &nbsp;|&nbsp; 📧 [janus.mmm@gmail.com](mailto:janus.mmm@gmail.com) &nbsp;|&nbsp; 📞 (+45) 26 29 40 93 &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/janus-martin-lee-andersen-9064255a)  
 
 ## **Professional Summary**  
 
@@ -42,13 +42,13 @@ Equally committed to delivering **robust solutions** and **mentoring the team** 
 
 ## **Skills**  
 
-**Languages:** C# • JavaScript • SQL  
+**Languages:** C# • JavaScript • Python • SQL  
 
-**Frameworks:** ASP.NET Core • Blazor • EF Core • .NET  
+**Frameworks:** ASP.NET Core • Blazor • EF Core • .NET • WPF  
 
-**Tools:** Azure • Azure DevOps • CI/CD • Git • GitHub • Visual Studio  
+**Tools:** Azure • CI/CD • Git • GitHub • JIRA • Visual Studio  
 
-**Design & Development:** Agile • DDD • Systems Engineering • TDD   
+**Design & Development:** Agile • DDD • Systems Engineering • TDD  
 
 ## **Professional Traits**  
 
