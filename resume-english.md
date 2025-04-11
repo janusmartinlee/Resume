@@ -13,7 +13,7 @@ Equally committed to delivering **robust solutions** and **mentoring the team** 
 ### **Lead Software Design Engineer** – *Flow Robotics A/S* *(Mar 2023 – Feb 2025)*  
 
 - Drove stabilization of the legacy **SPA** and **REST API** to decreased the **Change Failure Rate (CFR)** and **rework rate** from **80%** to **10%**.  
-- Initiated and led a modernization initiative, redoing the legacy web app using **Domain Driven Design**, for **clear communication** and **separation of concerns**, using **Blazor/.NET** and modern **CI/CD** techniques.  
+- Initiated and led a modernization initiative, redoing the legacy web app employing **Domain Driven Design**, for **clear communication** and **separation of concerns**, and using **Blazor/.NET** and modern **CI/CD** techniques.  
 - **Led** and **mentored** a software team of &pm;3, to deliver high quality solutions, implementing business goals until the company went bankrupt.  
 
 ### **Senior Systems Eng. Software Engineer** – *Oticon A/S* *(Feb 2014 – Feb 2023)*  
@@ -44,7 +44,7 @@ Equally committed to delivering **robust solutions** and **mentoring the team** 
 
 **Languages:** C# • JavaScript • SQL  
 
-**Frameworks:** ASP.NET Core • Blazor • EF Core • .NET  
+**Frameworks:** ABP Framework • ASP.NET Core • Blazor • EF Core • .NET  
 
 **Tools:** Azure • CI/CD • Git • GitHub • Visual Studio  
 
