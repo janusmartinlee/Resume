@@ -44,11 +44,11 @@ Equally committed to delivering **robust solutions** and **mentoring the team** 
 
 **Languages:** C# • JavaScript • SQL  
 
-**Frameworks:** ABP Framework • ASP.NET Core • Blazor • EF Core • .NET  
+**Frameworks:** ASP.NET Core • Blazor • EF Core • .NET  
 
 **Tools:** Azure • CI/CD • Git • GitHub • Visual Studio  
 
-**Design & Development:** Agile • DDD • SOLID • Systems Engineering • TDD  
+**Design & Development:** Agile • DDD • SOLID • Systems Engineering 
 
 ## **Professional Traits**  
 
