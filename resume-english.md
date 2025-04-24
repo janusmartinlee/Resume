@@ -19,7 +19,7 @@ Equally committed to delivering **robust solutions** and **mentoring the team** 
 ### **Senior Systems Eng. Software Engineer** – *Oticon A/S* *(Feb 2014 – Feb 2023)*  
 
 - Designed and implemented multiple **WPF/.NET** based desktop applications for supporting internal development, **increasing productivity** and **reducing error rates**.  
-- Governed owned software solutions's compatibility with an ever-evolving systems landscape and compliance with regulatory requirements through close colaboration with stakeholders.
+- Governed owned software solutions's compatibility with an ever-evolving systems landscape and compliance with regulatory requirements through close collaboration with stakeholders.
 - Designed and wrote an internal development process, based on industry best practices and the **SOLID** principles, to support agile development methodologies.  
 - Designed and implemented **30+** MATLAB APIs, ensuring internal R&D functions a **unified toolbox** as foundation for their work.  
 
